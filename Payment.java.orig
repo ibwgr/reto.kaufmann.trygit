@@ -1,0 +1,7 @@
+Class Payment {
+<<<<<<< HEAD
+	String x = "Pay";
+=======
+	// mutiert direkt in github
+>>>>>>> 846e138caa7657c847b60b4ea616278185b0b233
+}
